@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask-CORS==4.0.0
+MetaTrader5>=5.0.5260
+python-dotenv==1.0.1
+pandas==2.2.2
+numpy==1.26.4
+ta==0.10.2
